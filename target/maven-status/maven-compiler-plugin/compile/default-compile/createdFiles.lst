@@ -1,0 +1,10 @@
+com\transfer\FundManager.class
+com\transfer\Processing.class
+com\transfer\H2Connection.class
+com\transfer\ResearchAnalyst.class
+com\transfer\ProcessingEngine.class
+com\transfer\Approver.class
+com\transfer\DivisionHead.class
+com\transfer\Processing$1.class
+com\transfer\ProcessingFactory.class
+com\transfer\Operations.class
